@@ -1,2 +1,2 @@
-# ExerciciosPython 
+# ExerciciosPython 🏃 🐍
 exercicios do python
